@@ -50,6 +50,6 @@ While currently using mock data, the project is designed for future backend inte
 - **QR Code Scanning:** Full integration with `expo-barcode-scanner` for live attendance. [cite: 69]
 
 ## Author
-- [Your Name]
-- [Your Student ID/Course/University - Optional]
-- [Your GitHub Profile Link - Optional]
+- [Lagatic, Xavier Angelo James O.]
+- [11-43205/BSIT/]
+- [(https://github.com/XAVIERPOOL)]
