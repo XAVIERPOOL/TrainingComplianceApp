@@ -10,20 +10,6 @@
 - npm (comes with Node.js) or Yarn
 - Expo CLI: Install globally: `npm install -g expo-cli`
 
-### Installation
-1.  Clone the repository:
-    ```bash
-    git clone [Your GitHub Repo HTTPS URL here, e.g., [https://github.com/your-username/CoopWiseTrainingModule.git](https://github.com/your-username/CoopWiseTrainingModule.git)]
-    ```
-2.  Navigate into the project directory:
-    ```bash
-    cd [Your-Repo-Name, e.g., CoopWiseTrainingModule]
-    ```
-3.  Install dependencies:
-    ```bash
-    npm install
-    # or yarn install
-    ```
 
 ### Running the Application
 1.  Start the Expo development server:
